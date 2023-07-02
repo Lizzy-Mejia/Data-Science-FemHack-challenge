@@ -1,7 +1,7 @@
 # Data-Science-FemHack-challenge
 Data Science FemHack challenge
 Team members:
-Elizabeth Mejia
+Elizabeth Mejia,
 Lorena Guadalupe Vázquez Figueroa
 
 In this repository, we present our solution for the FemHack Data Science challenge, which involved utilizing AI to analyze petitions on Change.org and predict their likelihood of success.
